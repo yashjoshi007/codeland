@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277590019202",
+    "project_id": "codeland-1a18a",
+    "storage_bucket": "codeland-1a18a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277590019202:android:542977b7e8a2384c2ff89b",
+        "android_client_info": {
+          "package_name": "com.example.codeland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb8GxVybSPZqx1zVZj9QGSTidjevnq20U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
